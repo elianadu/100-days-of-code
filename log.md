@@ -36,3 +36,11 @@
 
 **Link(s) to work**
 1. [Odin CSS Exercises](https://github.com/elianadu/odin-css-exercises)
+
+### Day 3: Dec 3, Wednesday
+
+**Today's Progress**: Finished TOP's Landing Page project and installed Node.js!
+**Thoughts** Feeling a little tired, think I'm going to slow down a bit from this point. I think I was just very excited to get to Javascript. But I'm looking forward tomorrow and very happy with what I've done! Really proud of the landing page.
+
+**Link(s) to work**
+1. [Odin Landing Page](https://elianadu.com/odin-landing-page)
