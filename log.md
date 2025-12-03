@@ -32,6 +32,7 @@
 ### Day 2: Dec 2, Tuesday
 
 **Today's Progress**: Up to the flexbox project on TOP!
+
 **Thoughts** I think I should definitely slow down my pace; this feels a little unsustainable. But I had fun today! And I realize that earlier I was just skimming over the reading instead of playing with the code, which is why I became so confused by flexboxes. I'm excited for the final project tomorrow!
 
 **Link(s) to work**
@@ -40,6 +41,7 @@
 ### Day 3: Dec 3, Wednesday
 
 **Today's Progress**: Finished TOP's Landing Page project and installed Node.js!
+
 **Thoughts** Feeling a little tired, think I'm going to slow down a bit from this point. I think I was just very excited to get to Javascript. But I'm looking forward tomorrow and very happy with what I've done! Really proud of the landing page.
 
 **Link(s) to work**
