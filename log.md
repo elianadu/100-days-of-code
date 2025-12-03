@@ -29,3 +29,10 @@
 1. [Recipes Project](https://elianadu.com/odin-recipes)
 
 
+### Day 2: Dec 2, Tuesday
+
+**Today's Progress**: Up to the flexbox project on TOP!
+**Thoughts** I think I should definitely slow down my pace; this feels a little unsustainable. But I had fun today! And I realize that earlier I was just skimming over the reading instead of playing with the code, which is why I became so confused by flexboxes. I'm excited for the final project tomorrow!
+
+**Link(s) to work**
+1. [Odin CSS Exercises]([https://elianadu.com/odin-recipes](https://github.com/elianadu/odin-css-exercises))
