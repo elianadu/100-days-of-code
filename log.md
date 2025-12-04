@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [Odin Landing Page](https://elianadu.com/odin-landing-page)
+
+### Day 4: Dec 4, Thursday
+
+**Today's Progress**: Learned JS data types and conditionals!
+
+**Thoughts** Tired, slowing down a bit. I find myself impatient and skipping around to get to the parts I find more interesting, where the actual building happens. I think I should intentionally slow down. I'm just a little anxious about learning everything.
+
+**Link(s) to work**
+1. [Odin JS exercises 01-05](https://github.com/elianadu/javascript-exercises/tree/main)
