@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Odin JS exercises 01-05](https://github.com/elianadu/javascript-exercises/tree/main)
+
+### Day 4: Dec 5, Friday
+
+**Today's Progress**: Worked up to TOP Rock-Paper-Scissors project
+
+**Thoughts** Logging this late and felt quite tired yesterday. but ready to start the project today!
+
+**Link(s) to work**
+N/A
