@@ -73,3 +73,12 @@ N/A
 
 **Link(s) to work**
 1. [Rock, Paper, Scissors](https://elianadu.com/odin-rock-paper-scissors)
+
+### Day 7: Dec 7, Sunday
+
+**Today's Progress**: Worked up to exercises for Arrays and Loops portion of TOP.
+
+**Thoughts** Ending it here for the day! Trying not to burn myself out / rush through.
+
+**Link(s) to work**
+N/A
