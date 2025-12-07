@@ -64,3 +64,21 @@
 
 **Link(s) to work**
 N/A
+
+### Day 6: Dec 6, Saturday
+
+**Today's Progress**: Implemented rock paper scissors activity and read about writing clean code.
+
+**Thoughts** So sleepy -- it's 4 a.m. and I completed my hour after getting back from New York. Perhaps this is a lesson learned about getting the hour of code done earlier in the day, before ambiguously-timed plans?
+
+**Link(s) to work**
+1. [Rock, Paper, Scissors](### Day 4: Dec 4, Thursday
+
+**Today's Progress**: Learned JS data types and conditionals!
+
+**Thoughts** Tired, slowing down a bit. I find myself impatient and skipping around to get to the parts I find more interesting, where the actual building happens. I think I should intentionally slow down. I'm just a little anxious about learning everything.
+
+**Link(s) to work**
+1. [Odin JS exercises 01-05](https://github.com/elianadu/javascript-exercises/tree/main))
+
+https://elianadu.com/odin-rock-paper-scissors
