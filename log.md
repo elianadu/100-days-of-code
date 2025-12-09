@@ -82,3 +82,22 @@ N/A
 
 **Link(s) to work**
 N/A
+
+### Day 8: Dec 8, Monday
+
+**Today's Progress**: Forgot to log this; completed the first set of Arrays + Loops exercises of TOP.
+
+**Thoughts** A whole week!
+
+**Link(s) to work**
+1. [Link to Exercises](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
+
+### Day 9: Dec 9, Tuesday
+
+**Today's Progress**: Finished exercises 06-11 in TOP's javascript-exercises repo for the Arrays + Loops sections. Moved onto DOM Manipulation and Events and finished the first exercise on the page!
+
+**Thoughts** Feeling good! Taking it slower now, especially during finals week. A little stressed about other work to be done, but finding TOP to be quite relaxing. 
+
+**Link(s) to work**
+1. [JS exercises](https://github.com/elianadu/javascript-exercises)
+
