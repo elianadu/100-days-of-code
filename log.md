@@ -101,3 +101,12 @@ N/A
 **Link(s) to work**
 1. [JS exercises](https://github.com/elianadu/javascript-exercises)
 
+
+### Day 10: Dec 10, Wednesday
+
+**Today's Progress**: Read through first section of Assignment in DOM Manipulation + Events and tried some [basic DOM manipulation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting#doing_some_basic_dom_manipulation).
+
+**Thoughts** Doing pretty well; excited to start the shopping list tomorrow. Still feel unsure about DOM manipulation, but hands-on practice should help. Bit stressed with finals.
+
+**Link(s) to work**
+1. N/A
