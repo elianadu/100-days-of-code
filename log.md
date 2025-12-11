@@ -110,3 +110,14 @@ N/A
 
 **Link(s) to work**
 1. N/A
+
+
+### Day 11: Dec 11, Thursday
+
+**Today's Progress**: Feeling good! Worked on TOP shopping list and am working on updating the rock-paper-scissors project. 
+
+**Thoughts** I like that the instructions are getting more vague. It means I have to think for myself. Quite proud of myself for waking up today to do my hour of coding.
+
+**Link(s) to work**
+1. Obviously only I can access [my shopping list link](/Users/elianadu/Documents/web-projects/mdn-shopping-list)
+2. Started working on updating rock-paper-scissors UI with JS
