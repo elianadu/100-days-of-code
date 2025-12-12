@@ -121,3 +121,12 @@ N/A
 **Link(s) to work**
 1. Obviously only I can access [my shopping list link](/Users/elianadu/Documents/web-projects/mdn-shopping-list)
 2. Started working on updating rock-paper-scissors UI with JS
+
+### Day 12: Dec 12, Friday
+
+**Today's Progress**: Finished rps-ui project and started etch-a-sketch project.
+
+**Thoughts** Happy with the progress I've made today! Was actually very fun. Was intimidated when I began the etch-a-sketch project, but it's going more smoothly than I thought it would! Note to future self: flex: 1 is a thing you can do. Also, [this Git tutorial](https://learngitbranching.js.org/) seems useful.
+
+**Link(s) to work**
+1. [rps project!](/Users/elianadu/Documents/web-projects/mdn-shopping-list)
