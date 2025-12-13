@@ -130,3 +130,12 @@ N/A
 
 **Link(s) to work**
 1. [rps project!](https://elianadu.com/odin-rock-paper-scissors/)
+
+### Day 13: Dec 13, Saturday
+
+**Today's Progress**: Finished etch-a-sketch project!
+
+**Thoughts** Really enjoyed the etch-a-sketch project, although in my head I spent more time on this than I did in reality. Would someday like to go back and add more features, like colors and erasing, and make the UI more aesthetically pleasing. Feeling weirdly good about finals. Almost at the end of Foundations!
+
+**Link(s) to work**
+1. [Etch-a-Sketch project!](https://elianadu.com/odin-etch-a-sketch/)
