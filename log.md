@@ -139,3 +139,12 @@ N/A
 
 **Link(s) to work**
 1. [Etch-a-Sketch project!](https://elianadu.com/odin-etch-a-sketch/)
+
+### Day 14: Dec 14, Sunday
+
+**Today's Progress**: Began learning object basics and completed a few exercises in the Assignments section.
+
+**Thoughts** Feeling good, albeit a little tired after my exam this morning! Proud of myself for doing my hour of coding despite considering skipping to study for tomorrow's exam. Reading the articles is never as interesting as actually working on a project, so I'm excited to apply this knowledge.
+
+**Link(s) to work**
+1. N/A
