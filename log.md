@@ -23,7 +23,7 @@
 
 **Today's Progress**: Completed the HTML portion of The Odin Project (TOP) and browsed LeetCode!
 
-**Thoughts** I'm pretty proud of what I've done today, although I'm worried I'm going to burn myself out. 1 hour a day seems like a lot to commit, but I'm determined to stick with it. I had a lot of fun making the recipe website!
+**Thoughts**: I'm pretty proud of what I've done today, although I'm worried I'm going to burn myself out. 1 hour a day seems like a lot to commit, but I'm determined to stick with it. I had a lot of fun making the recipe website!
 
 **Link(s) to work**
 1. [Recipes Project](https://elianadu.com/odin-recipes)
@@ -33,7 +33,7 @@
 
 **Today's Progress**: Up to the flexbox project on TOP!
 
-**Thoughts** I think I should definitely slow down my pace; this feels a little unsustainable. But I had fun today! And I realize that earlier I was just skimming over the reading instead of playing with the code, which is why I became so confused by flexboxes. I'm excited for the final project tomorrow!
+**Thoughts**: I think I should definitely slow down my pace; this feels a little unsustainable. But I had fun today! And I realize that earlier I was just skimming over the reading instead of playing with the code, which is why I became so confused by flexboxes. I'm excited for the final project tomorrow!
 
 **Link(s) to work**
 1. [Odin CSS Exercises](https://github.com/elianadu/odin-css-exercises)
@@ -42,7 +42,7 @@
 
 **Today's Progress**: Finished TOP's Landing Page project and installed Node.js!
 
-**Thoughts** Feeling a little tired, think I'm going to slow down a bit from this point. I think I was just very excited to get to Javascript. But I'm looking forward tomorrow and very happy with what I've done! Really proud of the landing page.
+**Thoughts**: Feeling a little tired, think I'm going to slow down a bit from this point. I think I was just very excited to get to Javascript. But I'm looking forward tomorrow and very happy with what I've done! Really proud of the landing page.
 
 **Link(s) to work**
 1. [Odin Landing Page](https://elianadu.com/odin-landing-page)
@@ -51,7 +51,7 @@
 
 **Today's Progress**: Learned JS data types and conditionals!
 
-**Thoughts** Tired, slowing down a bit. I find myself impatient and skipping around to get to the parts I find more interesting, where the actual building happens. I think I should intentionally slow down. I'm just a little anxious about learning everything.
+**Thoughts**: Tired, slowing down a bit. I find myself impatient and skipping around to get to the parts I find more interesting, where the actual building happens. I think I should intentionally slow down. I'm just a little anxious about learning everything.
 
 **Link(s) to work**
 1. [Odin JS exercises 01-05](https://github.com/elianadu/javascript-exercises/tree/main)
@@ -60,7 +60,7 @@
 
 **Today's Progress**: Worked up to TOP Rock-Paper-Scissors project
 
-**Thoughts** Logging this late and felt quite tired yesterday. but ready to start the project today!
+**Thoughts**: Logging this late and felt quite tired yesterday. but ready to start the project today!
 
 **Link(s) to work**
 N/A
@@ -69,7 +69,7 @@ N/A
 
 **Today's Progress**: Implemented rock paper scissors activity and read about writing clean code.
 
-**Thoughts** So sleepy -- it's 4 a.m. and I completed my hour after getting back from New York. Perhaps this is a lesson learned about getting the hour of code done earlier in the day, before ambiguously-timed plans?
+**Thoughts**: So sleepy -- it's 4 a.m. and I completed my hour after getting back from New York. Perhaps this is a lesson learned about getting the hour of code done earlier in the day, before ambiguously-timed plans?
 
 **Link(s) to work**
 1. [Rock, Paper, Scissors](https://elianadu.com/odin-rock-paper-scissors)
@@ -78,7 +78,7 @@ N/A
 
 **Today's Progress**: Worked up to exercises for Arrays and Loops portion of TOP.
 
-**Thoughts** Ending it here for the day! Trying not to burn myself out / rush through.
+**Thoughts**: Ending it here for the day! Trying not to burn myself out / rush through.
 
 **Link(s) to work**
 N/A
@@ -87,7 +87,7 @@ N/A
 
 **Today's Progress**: Forgot to log this; completed the first set of Arrays + Loops exercises of TOP.
 
-**Thoughts** A whole week!
+**Thoughts**: A whole week!
 
 **Link(s) to work**
 1. [Link to Exercises](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
@@ -96,7 +96,7 @@ N/A
 
 **Today's Progress**: Finished exercises 06-11 in TOP's javascript-exercises repo for the Arrays + Loops sections. Moved onto DOM Manipulation and Events and finished the first exercise on the page!
 
-**Thoughts** Feeling good! Taking it slower now, especially during finals week. A little stressed about other work to be done, but finding TOP to be quite relaxing. 
+**Thoughts**: Feeling good! Taking it slower now, especially during finals week. A little stressed about other work to be done, but finding TOP to be quite relaxing. 
 
 **Link(s) to work**
 1. [JS exercises](https://github.com/elianadu/javascript-exercises)
@@ -106,17 +106,16 @@ N/A
 
 **Today's Progress**: Read through first section of Assignment in DOM Manipulation + Events and tried some [basic DOM manipulation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting#doing_some_basic_dom_manipulation).
 
-**Thoughts** Doing pretty well; excited to start the shopping list tomorrow. Still feel unsure about DOM manipulation, but hands-on practice should help. Bit stressed with finals.
+**Thoughts**: Doing pretty well; excited to start the shopping list tomorrow. Still feel unsure about DOM manipulation, but hands-on practice should help. Bit stressed with finals.
 
 **Link(s) to work**
 1. N/A
-
 
 ### Day 11: Dec 11, Thursday
 
 **Today's Progress**: Feeling good! Worked on TOP shopping list and am working on updating the rock-paper-scissors project. 
 
-**Thoughts** I like that the instructions are getting more vague. It means I have to think for myself. Quite proud of myself for waking up today to do my hour of coding.
+**Thoughts**: I like that the instructions are getting more vague. It means I have to think for myself. Quite proud of myself for waking up today to do my hour of coding.
 
 **Link(s) to work**
 1. Obviously only I can access [my shopping list link](file:///Users/elianadu/Documents/web-projects/mdn-shopping-list/index.html)
@@ -126,7 +125,7 @@ N/A
 
 **Today's Progress**: Finished rps-ui project and started etch-a-sketch project.
 
-**Thoughts** Happy with the progress I've made today! Was actually very fun. Was intimidated when I began the etch-a-sketch project, but it's going more smoothly than I thought it would! Note to future self: flex: 1 is a thing you can do. Also, [this Git tutorial](https://learngitbranching.js.org/) seems useful.
+**Thoughts**: Happy with the progress I've made today! Was actually very fun. Was intimidated when I began the etch-a-sketch project, but it's going more smoothly than I thought it would! Note to future self: flex: 1 is a thing you can do. Also, [this Git tutorial](https://learngitbranching.js.org/) seems useful.
 
 **Link(s) to work**
 1. [rps project!](https://elianadu.com/odin-rock-paper-scissors/)
@@ -135,7 +134,7 @@ N/A
 
 **Today's Progress**: Finished etch-a-sketch project!
 
-**Thoughts** Really enjoyed the etch-a-sketch project, although in my head I spent more time on this than I did in reality. Would someday like to go back and add more features, like colors and erasing, and make the UI more aesthetically pleasing. Feeling weirdly good about finals. Almost at the end of Foundations!
+**Thoughts**: Really enjoyed the etch-a-sketch project, although in my head I spent more time on this than I did in reality. Would someday like to go back and add more features, like colors and erasing, and make the UI more aesthetically pleasing. Feeling weirdly good about finals. Almost at the end of Foundations!
 
 **Link(s) to work**
 1. [Etch-a-Sketch project!](https://elianadu.com/odin-etch-a-sketch/)
@@ -144,7 +143,16 @@ N/A
 
 **Today's Progress**: Began learning object basics and completed a few exercises in the Assignments section.
 
-**Thoughts** Feeling good, albeit a little tired after my exam this morning! Proud of myself for doing my hour of coding despite considering skipping to study for tomorrow's exam. Reading the articles is never as interesting as actually working on a project, so I'm excited to apply this knowledge.
+**Thoughts**: Feeling good, albeit a little tired after my exam this morning! Proud of myself for doing my hour of coding despite considering skipping to study for tomorrow's exam. Reading the articles is never as interesting as actually working on a project, so I'm excited to apply this knowledge.
 
 **Link(s) to work**
 1. N/A
+
+### Day 15: Dec 15, Monday
+
+**Today's Progress**: Worked on some more array exercises and moved onto the JavaScript30 exercises. Working on 04.
+
+**Thoughts**: I feel like I didn't get that much done. I'm spending more time on the Array exercises than I thought I would, especially in a whole hour. But I do feel myself getting more familiar with the methods, which is nice. 
+
+**Link(s) to work**
+1. [Cloned JavaScript30 repo](https://github.com/elianadu/JavaScript30)
