@@ -156,3 +156,12 @@ N/A
 
 **Link(s) to work**
 1. [Cloned JavaScript30 repo](https://github.com/elianadu/JavaScript30)
+
+### Day 16: Dec 16, Tuesday
+
+**Today's Progress**: Worked up to exercise 14 in the foundations exercise repo.
+
+**Thoughts**: Feels like I've been working on these objects exercises for a bit, but I'm hoping to finish and move onto the last project tomorrow!
+
+**Link(s) to work**
+1. [Cloned JavaScript30 repo](https://github.com/elianadu/JavaScript30)
