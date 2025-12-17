@@ -165,3 +165,13 @@ N/A
 
 **Link(s) to work**
 1. [Cloned JavaScript30 repo](https://github.com/elianadu/JavaScript30)
+
+### Day 17: Dec 17, Wednesday
+
+**Today's Progress**: Made it to last project of Foundations -- the calculator! Created the HTML, CSS, and JS files + started adding buttons and functions.
+
+**Thoughts**: Happy about being on the last project, and quite enjoying it! Can feel myself getting comfortable with basic Git commands, which also makes me happy.
+
+**Link(s) to work**
+1. [JS exercises](https://github.com/elianadu/javascript-exercises)
+2. [Calculator repo](https://github.com/elianadu/odin-calculator)
