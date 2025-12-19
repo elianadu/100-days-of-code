@@ -184,3 +184,12 @@ N/A
 
 **Link(s) to work**
 1. N/A
+
+### Day 19: Dec 19, Friday
+
+**Today's Progress**: Finished requirements for calculator project and made simple UI. 
+
+**Thoughts**: Happy I finished Foundations! Dilly-dallied for some time. Getting functionality right was quite difficult. Not sure how to make it more organized though; struggled to break the task into discrete steps. Might come back to this to do the extra credit in the future and to just make it look nicer!
+
+**Link(s) to work**
+1. [Calculator](https://elianadu.com/odin-calculator)
