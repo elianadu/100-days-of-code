@@ -175,3 +175,12 @@ N/A
 **Link(s) to work**
 1. [JS exercises](https://github.com/elianadu/javascript-exercises)
 2. [Calculator repo](https://github.com/elianadu/odin-calculator)
+
+### Day 18: Dec 18, Thursday
+
+**Today's Progress**: Kept working on calculator
+
+**Thoughts**: Didn't do that much work today and realizing it might have been cleaner if I wrote pseudocode. Not sure if I worked the whole hour; studied for ECE in the morning.
+
+**Link(s) to work**
+1. N/A
