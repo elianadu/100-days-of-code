@@ -193,3 +193,12 @@ N/A
 
 **Link(s) to work**
 1. [Calculator](https://elianadu.com/odin-calculator)
+
+### Day 20: Dec 20, Saturday
+
+**Today's Progress**: Worked through some of the Intermediate HTML + CSS content, up to "More Text Styles"
+
+**Thoughts**: Honestly think I'm going to struggle through this section a bit. Seems quite boring, and there aren't many projects to motivate me through it. 
+
+**Link(s) to work:**
+N/A
