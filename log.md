@@ -202,3 +202,12 @@ N/A
 
 **Link(s) to work:**
 N/A
+
+### Day 21: Dec 21, Sunday
+
+**Today's Progress**: Worked up to the Sign-up Form project!
+
+**Thoughts**: Feeling tired with the amount of documentation and lack of projects in this part of TOP, so I skipped and skimmed over some of the CSS readings. Not feeling great today, but have been watching The Good Place on the side as I've programmed.
+
+**Link(s) to work:**
+N/A
