@@ -211,3 +211,12 @@ N/A
 
 **Link(s) to work:**
 N/A
+
+### Day 22: Dec 22, Monday
+
+**Today's Progress**: Finished the Sign-up Form project and started learning about CSS Grid.
+
+**Thoughts**: Still feeling a bit tired and unmotivated, but we'll see where things go!
+
+**Link(s) to work:**
+1. [Sign-up Form](https://elianadu.com/odin-sign-up-form/)
