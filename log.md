@@ -220,3 +220,23 @@ N/A
 
 **Link(s) to work:**
 1. [Sign-up Form](https://elianadu.com/odin-sign-up-form/)
+
+
+### Day 23: Dec 23, Tuesday
+
+**Today's Progress**: (Logging this a day late) learned up to advanced grid properties!
+
+**Thoughts**: Felt good -- talking to Leeann gave me a little renewed motivation!
+
+**Link(s) to work:**
+1. [Intermediate CSS exercises](https://github.com/elianadu/odin-css-exercises/tree/main/intermediate-html-css)
+
+
+### Day 24: Dec 24, Wednesday
+
+**Today's Progress**: Worked up to the Admin Dashboard project! 
+
+**Thoughts**: Feeling good about finishing the holy-grail-mockup exercise and hoping to continue getting work done even on vacation :).
+
+**Link(s) to work:**
+1. [Intermediate CSS exercises](https://github.com/elianadu/odin-css-exercises/tree/main/intermediate-html-css)
