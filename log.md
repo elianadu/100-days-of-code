@@ -240,3 +240,13 @@ N/A
 
 **Link(s) to work:**
 1. [Intermediate CSS exercises](https://github.com/elianadu/odin-css-exercises/tree/main/intermediate-html-css)
+
+
+### Day 25: Dec 25, Thursday
+
+**Today's Progress**: Continued working on Admin Dashboard.
+
+**Thoughts**: Wish I could have worked on this for more time today. Feeling a little unmotivated + find myself wanting to rush through to the next section, but a little more inspired by the poetry theme I've thought about, to make the project personal!
+
+**Link(s) to work:**
+N/A
