@@ -250,3 +250,12 @@ N/A
 
 **Link(s) to work:**
 N/A
+
+### Day 26: Dec 26, Friday
+
+**Today's Progress**: Finished the Admin Dashboard!!! Started the Javascript Course!!
+
+**Thoughts**: It's past 4 am right now -- I've been working on this for the past 4 and a half hours, but the time passed by quickly. I'm happy with the end result (although it still has some janky behavior I can't explain), especially because I did something creative. I should learn to commit more often, though, and pull before I work. I keep finding myself committing at the very end of the project after it's done, which defeats the purpose of commits. I'm so excited to start with Javascript (although the docs will undoubtedly be boring) and I cannot wait to pass out in a few minutes.
+
+**Link(s) to work:**
+1. [Admin Dashboard!](https://elianadu.com/odin-admin-dashboard/)
