@@ -259,3 +259,21 @@ N/A
 
 **Link(s) to work:**
 1. [Admin Dashboard!](https://elianadu.com/odin-admin-dashboard/)
+
+### Day 27: Dec 27, Saturday
+
+**Today's Progress**: Finished the Library project, worked up to Tic-Tac-Toe.
+
+**Thoughts**: I didn't realize how much progress I made today. I came to the log feeling a little disappointed by the amount of work I did, but I made good progress. The course is long, and I'm at a point wondering if I need this depth of knowledge, or if I should skip ahead, because there's little chance I'm going to make as much progress as I want to over winter break. But I'll stay the path. Hopefully will finish Tic-Tac-Toe tomorrow morning and (in an ideal world) can get to the Restaurant Page!
+
+**Link(s) to work:**
+1. [Library](https://elianadu.com/odin-library/)
+
+### Day 28: Dec 28, Sunday
+
+**Today's Progress**: Finished Tic-Tac-Toe.
+
+**Thoughts**: Wow. Tic-Tac-Toe took so much longer than I thought it would. Proud of myself, but the end result still isn't as aesthetically pleasing as I hoped it would be. I think it's a better use of my time to move on though. Hopefully will get to the restaurant project tomorrow. Chances of finishing the course by the end of break seem slimmer and slimmer.
+
+**Link(s) to work:**
+1. [Tic-Tac-Toe](https://elianadu.com/odin-tic-tac-toe/)
