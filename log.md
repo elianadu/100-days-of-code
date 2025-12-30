@@ -277,3 +277,12 @@ N/A
 
 **Link(s) to work:**
 1. [Tic-Tac-Toe](https://elianadu.com/odin-tic-tac-toe/)
+
+### Day 29: Dec 29, Monday
+
+**Today's Progress**: Started on Restaurant project!
+
+**Thoughts**: Will ideally finish to-do list project tomorrow. Will probably deploy barebones restaurant project and come back to style later if I do choose. Feeling good. Can't believe it's almost been a month.
+
+**Link(s) to work:**
+1. N/A
