@@ -296,3 +296,12 @@ N/A
 **Link(s) to work:**
 1. [Restaurant Page](https://elianadu.com/odin-restaurant-page/)
 
+### Day 31: Dec 31, Wednesday
+
+**Today's Progress**: Worked on some beginner LeetCode problems
+
+**Thoughts**: Won't have much time to work on this today; glad I sat down and did something though.
+
+**Link(s) to work:**
+1. N/A
+
