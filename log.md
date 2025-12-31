@@ -286,3 +286,13 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 30: Dec 30, Tuesday
+
+**Today's Progress**: Finished restaurant project, learned about OOP best principles (SOLID), started to-do list.
+
+**Thoughts**: Logging this a day late. Feeling tired, will work on LeetCode a little bit. Feeling like I should look for summer opportunities.
+
+**Link(s) to work:**
+1. [Restaurant Page](https://elianadu.com/odin-restaurant-page/)
+
