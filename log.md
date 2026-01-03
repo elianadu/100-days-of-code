@@ -305,3 +305,20 @@ N/A
 **Link(s) to work:**
 1. N/A
 
+### Day 32: Jan 1, Thursday
+
+**Today's Progress**: Worked a little on todo list, made todo classes.
+
+**Thoughts**: Logged this a day late; didn't have much time today to work on it.
+
+**Link(s) to work:**
+1. N/A
+
+### Day 33: Jan 2, Friday
+
+**Today's Progress**: Kept working on todo list -- got projects working but want to work on editing todos tomorrow!
+
+**Thoughts**: Got a little tired and finding this a little frustrating. Struggling with organizing my code, but hopefully this is something I'll get better at.
+
+**Link(s) to work:**
+1. N/A
