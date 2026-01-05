@@ -322,3 +322,21 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 34: Jan 3, Saturday
+
+**Today's Progress**: Honestly not totally sure what I worked on yesterday, but did todos for an hour.
+
+**Thoughts**: Logging this a day late because friends were over (cheers) and I had to rush out of the house
+
+**Link(s) to work:**
+1. N/A
+
+### Day 35: Jan 4, Sunday
+
+**Today's Progress**: Did my hour on the car ride to VT. Worked on editing todos and displaying things in the right way, especially with edge cases (like when all projects have been deleted).
+
+**Thoughts**: Feeling good! Just have to do some UI stuff -- hoping to be done tomorrow (🤞)? The code structure is so janky -- there are so many times I've thought about deleting everything and starting again.
+
+**Link(s) to work:**
+1. N/A
