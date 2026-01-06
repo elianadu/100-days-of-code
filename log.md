@@ -340,3 +340,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 36: Jan 5, Monday
+
+**Today's Progress**: Essentially finished the Todo list (did date formatting and minor style fixes), but want to add responsive menu button for the project sidebar and adjust styling a little. 
+
+**Thoughts**: Asked ChatGPT for a lot of help -- feeling unmotivated and tired. Feeling stressed about the summer, about the future. Want to just read.
+
+**Link(s) to work:**
+1. N/A
