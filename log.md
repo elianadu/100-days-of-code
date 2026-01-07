@@ -349,3 +349,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 37: Jan 6, Tuesday
+
+**Today's Progress**: Finished todo project!
+
+**Thoughts**: Asked Chat for lots of help again -- still feeling unmotivated. Still uncertain about the future, and generally tired after the long days. 
+
+**Link(s) to work:**
+1. [To-do list (finally!)](https://elianadu.com/odin-todo-list/)
