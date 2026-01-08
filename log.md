@@ -358,3 +358,12 @@ N/A
 
 **Link(s) to work:**
 1. [To-do list (finally!)](https://elianadu.com/odin-todo-list/)
+
+### Day 38: Jan 7, Wednesday
+
+**Today's Progress**: Read about linting + set up template repo, read a bit about ES6, and worked a little on form validation lesson.
+
+**Thoughts**: Still tired, feeling a bit better now that I'm done with todo though.
+
+**Link(s) to work:**
+1. N/A
