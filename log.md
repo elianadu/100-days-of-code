@@ -367,3 +367,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 39: Jan 8, Thursday
+
+**Today's Progress**: Worked on [LeetCode Top 150](https://leetcode.com/studyplan/top-interview-150/) and kept working through form validation on TOP.
+
+**Thoughts**: Still tired, didn't really want to do TOP. Form validation is harder than I thought it would. Called a career advisor this morning and felt overwhelmed by how much it feels like there is to do. Might start logging LeetCode solns in a repo.
+
+**Link(s) to work:**
+1. N/A
