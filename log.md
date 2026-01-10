@@ -376,3 +376,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 39: Jan 8, Thursday
+
+**Today's Progress**: Finished form validation and reading about asynchronous code on TOP.
+
+**Thoughts**: Feeling good about things. Might work on LeetCode a little. Hoping to start on Weather App tomorrow.
+
+**Link(s) to work:**
+1. N/A
