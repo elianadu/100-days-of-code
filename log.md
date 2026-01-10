@@ -377,7 +377,7 @@ N/A
 **Link(s) to work:**
 1. N/A
 
-### Day 39: Jan 8, Thursday
+### Day 40: Jan 9, Friday
 
 **Today's Progress**: Finished form validation and reading about asynchronous code on TOP.
 
