@@ -395,3 +395,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 42: Jan 11, Sunday
+
+**Today's Progress**: Finished Working on APIs, read through about half of Async and Await. 
+
+**Thoughts**: A little tired. Hoping to begin Weather App tomorrow. Keep overestimating how much I get done. Working on summer apps; we'll see how it goes.
+
+**Link(s) to work:**
+1. N/A
