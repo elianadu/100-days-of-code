@@ -385,3 +385,13 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+
+### Day 41: Jan 10, Saturday
+
+**Today's Progress**: Worked a bit on LeetCode. 
+
+**Thoughts**: Kind of tired; kind of weary.
+
+**Link(s) to work:**
+1. N/A
