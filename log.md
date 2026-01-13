@@ -404,3 +404,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 43: Jan 12, Monday
+
+**Today's Progress**: Finished Async Await.
+
+**Thoughts**: Focused more on summer stuff right now. A little stressed but trying to feel better.
+
+**Link(s) to work:**
+1. N/A
