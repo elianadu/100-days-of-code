@@ -413,3 +413,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 44: Jan 13, Tuesday
+
+**Today's Progress**: Worked a little bit on Recursion exercises.
+
+**Thoughts**: Didn't feel like working on Weather App. Got stuck for a long time on recursion exercises. Harder than expected.
+
+**Link(s) to work:**
+1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
