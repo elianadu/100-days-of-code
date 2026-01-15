@@ -422,3 +422,12 @@ N/A
 
 **Link(s) to work:**
 1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
+
+### Day 45: Jan 14, Wednesday
+
+**Today's Progress**: Kept working on Recursion.
+
+**Thoughts**: Logging this late. Did my hour very late at night and am struggling with recursion more than I thought I would.
+
+**Link(s) to work:**
+1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
