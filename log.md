@@ -431,3 +431,12 @@ N/A
 
 **Link(s) to work:**
 1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
+
+### Day 46: Jan 15, Thursday
+
+**Today's Progress**: Finished Recursion!
+
+**Thoughts**: Took much longer than I thought it would because I got stuck on permutations.
+
+**Link(s) to work:**
+1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
