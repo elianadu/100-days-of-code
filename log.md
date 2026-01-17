@@ -440,3 +440,12 @@ N/A
 
 **Link(s) to work:**
 1. [Recursion exercises](https://github.com/elianadu/javascript-exercises/tree/main/computer_science/recursion)
+
+### Day 47: Jan 16, Friday
+
+**Today's Progress**: Finished the fibonacci and mergesort assignments. 
+
+**Thoughts**: Feeling unmotivated lowk.
+
+**Link(s) to work:**
+1. [Other recursion exercises](https://github.com/elianadu/odin-recursion)
