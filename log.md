@@ -449,3 +449,12 @@ N/A
 
 **Link(s) to work:**
 1. [Other recursion exercises](https://github.com/elianadu/odin-recursion)
+
+### Day 48: Jan 18, Saturday
+
+**Today's Progress**: Read up on Jest
+
+**Thoughts**: A little tired.
+
+**Link(s) to work:**
+1. N/A
