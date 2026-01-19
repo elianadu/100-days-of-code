@@ -450,7 +450,7 @@ N/A
 **Link(s) to work:**
 1. [Other recursion exercises](https://github.com/elianadu/odin-recursion)
 
-### Day 48: Jan 18, Saturday
+### Day 48: Jan 17, Saturday
 
 **Today's Progress**: Read up on Jest
 
@@ -458,3 +458,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 49: Jan 18, Sunday
+
+**Today's Progress**: Worked a bit on the TDD exercises.
+
+**Thoughts**: Haven't been coding much these days.
+
+**Link(s) to work:**
+1. [TDD practice](https://github.com/elianadu/odin-tdd-practice)
