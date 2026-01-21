@@ -467,3 +467,21 @@ N/A
 
 **Link(s) to work:**
 1. [TDD practice](https://github.com/elianadu/odin-tdd-practice)
+
+### Day 50: Jan 19, Monday
+
+**Today's Progress**: Read up on Git rebase and reset.
+
+**Thoughts**: Logging this a day late. Reading about Git is quite tiring.
+
+**Link(s) to work:**
+1. N/A
+
+### Day 51: Jan 20, Tuesday
+
+**Today's Progress**: Watched video on TDD and read more about Git commands.
+
+**Thoughts**: Haven't been getting as much time to work lately as I wanted to. We'll see how much I get done on the retreat.
+
+**Link(s) to work:**
+1. N/A
