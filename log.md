@@ -485,3 +485,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 52: Jan 21, Wednesday
+
+**Today's Progress**: Read more about Git and praticed workflow.
+
+**Thoughts**: Feeling tired, feeling divided about what I should spend my time on. 
+
+**Link(s) to work:**
+1. N/A
