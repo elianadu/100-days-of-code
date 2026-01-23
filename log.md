@@ -494,3 +494,12 @@ N/A
 
 **Link(s) to work:**
 1. N/A
+
+### Day 53: Jan 22, Thursday
+
+**Today's Progress**: Practiced a Git workflow and revisited the weather app project.
+
+**Thoughts**: Enjoying the retreat but the sleep schedule is effed. Hoping to make good progress on this and battleship by interview next week, but keeping the planning fallacy in mind.
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
