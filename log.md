@@ -503,3 +503,12 @@ N/A
 
 **Link(s) to work:**
 1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
+### Day 54: Jan 24, Saturday
+
+**Today's Progress**: Got Weather App (kind of) working! Figured out async/await API calls a little bit, but am still confused.
+
+**Thoughts**: Skipped a day yesterday but don't feel bad about it. Was close to skipping today. I think it helps to get the hour done in the morning. Feeling good after an hour of productive work.
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
