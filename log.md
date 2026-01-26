@@ -512,3 +512,12 @@ N/A
 
 **Link(s) to work:**
 1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
+### Day 55: Jan 25, Sunday
+
+**Today's Progress**: Got Weather App (actually) working! Displayed images with dynamic imports and hammered out some errors.
+
+**Thoughts**: Feeling good! This was fun. I'm excited to work on it tomorrow and add styling. Still a little confused about Promises and async/await but I'm sure my confusion will clear up as I use these tools more. 
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
