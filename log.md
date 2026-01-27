@@ -521,3 +521,12 @@ N/A
 
 **Link(s) to work:**
 1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
+### Day 56: Jan 26, Monday
+
+**Today's Progress**: Got Weather App (actually) working! Displayed images with dynamic imports and hammered out some errors.
+
+**Thoughts**: Logging this a day late because I forgot to yesterday. Feeling pretty good but I wish the project was in better shape. It's functional, mostly a UI thing now. Realized I lowkey forgot how grid works. 
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
