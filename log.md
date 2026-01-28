@@ -530,3 +530,12 @@ N/A
 
 **Link(s) to work:**
 1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
+### Day 57: Jan 27, Tuesday
+
+**Today's Progress**: Worked mostly on UI stuff -- it's more challenging than I thought it would be, perhaps because I've forgotten some things.
+
+**Thoughts**: Logging this a day late because I forgot to yesterday. Oops. Feeling good, but this project is taking me longer than I hoped. I suppose I should expect this -- planning fallacy. Excited for battleship and itching to start that soon.
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
