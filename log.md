@@ -539,3 +539,13 @@ N/A
 
 **Link(s) to work:**
 1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
+### Day 58: Jan 28, Wednesday
+
+**Today's Progress**: Worked on UI stuff again.
+
+**Thoughts**: Feeling tired of this. I want a break. First week of classes is taking a lot out of me. 
+
+**Link(s) to work:**
+1. [Weather App repo](https://github.com/elianadu/odin-weather-app)
+
